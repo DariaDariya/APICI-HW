@@ -1,1 +1,1 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/9re27b7bg8u90o1e/branch/master?svg=true)](https://ci.appveyor.com/project/DariaDariya/apici-hw/branch/master)
+[![Build status](https://ci.appveyor.com/api/projects/status/9re27b7bg8u90o1e?svg=true)](https://ci.appveyor.com/project/DariaDariya/apici-hw)
